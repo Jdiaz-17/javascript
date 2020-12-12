@@ -6,6 +6,6 @@ function ingreso (){
         location.href ="https://www.poli.edu.co/profesional/ingenieria-de-software-virtual";
     }
 
-    else {document.getElementById("ingreso").innerHTML = "intente nuevamente"
-}
+    
+    else {alert("intente nuevamente")}
 }
